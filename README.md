@@ -12,8 +12,8 @@ The model takes **images of single words or text lines (multiple words) as input
 3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
 
 ![htr](./doc/htr.png)
-![htr](./doc/Dysgraphia1.jpg)
-![htr](./doc/IN7Ky.jpg)
+![htr](./data/Dysgraphia1.jpg)
+![htr](./data/IN7Ky.jpg)
 
 ## Run demo
 
